@@ -1,6 +1,8 @@
 const express = require('express')
 const app = express();
 const port = process.env.PORT || 3000;
+const cors = require('cors')
+app.use(cors());
 
 const mongoose = require('mongoose');
 const uri = process.env.MONGODB_URI || "mongodb+srv://gabrielsilveira2505_db_user:54123@cluster0.8o5q2jl.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0";
