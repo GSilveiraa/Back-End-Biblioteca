@@ -1,32 +1,32 @@
 [
     {
         "id": 1,
-        "nome": "Notebook Dell Inspiron 15, Intel Core i5, 8GB RAM, 256GB SSD",
-        "preco": 3500.00,
-        "categoria": "Notebook"
+        "titulo": "Dom Casmurro",
+        "autor": "Machado de Assis",
+        "valor": 79.90
     },
     {
         "id": 2,
-        "nome": "Smartphone Samsung Galaxy S21, 128GB, Preto",
-        "preco": 2500.00,
-        "categoria": "Smartphone"
+        "titulo": "Grande Sertão: Veredas",
+        "autor": "João Guimarães Rosa",
+        "valor": 92.50
     },
     {
         "id": 3,
-        "nome": "Headphones Sony WH-1000XM4, Cancelamento de Ruído",
-        "preco": 800.00,
-        "categoria": "Fone de Ouvido"
+        "titulo": "O Cortiço",
+        "autor": "Aluísio Azevedo",
+        "valor": 68.00
     },
     {
         "id": 4,
-        "nome": "Monitor LG 24MP59G-P, 24 polegadas, Full HD",
-        "preco": 1200.00,
-        "categoria": "Monitor"
+        "titulo": "Capitães da Areia",
+        "autor": "Jorge Amado",
+        "valor": 74.90
     },
     {
         "id": 5,
-        "nome": "Teclado Mecânico Redragon Kumara K552, RGB, Switches Outemu Blue",
-        "preco": 450.00,
-        "categoria": "Teclado"
+        "titulo": "Vidas Secas",
+        "autor": "Graciliano Ramos",
+        "valor": 81.00
     }
 ]

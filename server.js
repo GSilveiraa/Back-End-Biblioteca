@@ -41,8 +41,8 @@ app.get('/', (req, res) => {
 
 app.get('/about', (req, res) => {
     res.send('Está é a página sobre a Back-End Biblioteca')
-})
 
+})
 // rota para retornar package.json
 app.get('/package.json', (req, res) => {
   const p = path.join(__dirname, 'package.json');
